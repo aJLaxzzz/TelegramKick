@@ -37,7 +37,8 @@ deactivate
 3. Нажмите на кнопку - API development tools
 4. В поля введите любые данные, выберите desktop
 5. Нажмите save as
-6.  Отредактируйте `config.py`:
+6.  Переименуйте `config.example.py` в `config.py`
+7.  Отредактируйте `config.py`:
 ```python
 API_ID = "your_api_id"
 API_HASH = "your_api_hash" 
